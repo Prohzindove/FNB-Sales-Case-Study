@@ -1,4 +1,4 @@
-<img width="1920" height="760" alt="FNB-Sales-Case-Study" src="./download%20fnb%20logo.png">
+<img width="1620" height="760" alt="FNB-Sales-Case-Study" src="./download%20fnb%20logo.png">
 # FNB-Sales-Case-Study
 This project analysis the sales performance of one product during and out of promotion periods.
 
