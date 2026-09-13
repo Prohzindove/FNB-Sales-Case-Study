@@ -78,9 +78,8 @@ The promotional periods were compared with non-promotional periods to assess whe
 | Tool            | Purpose                                                |
 | --------------- | ------------------------------------------------------ |
 | Databricks      | SQL data cleaning, exploration and analysis            |
-| SQL             | Data querying, transformations and metric calculations |
-| Microsoft Excel | Data validation and additional calculations            |
-| Google Sheets   | Pivot tables, analysis and visualisation               |
+| SQL             | Data querying, transformations and metric calculations |          
+| Google Sheets   | Pivot tables, analysis, additional calculations and visualisation               |
 | Power BI        | Interactive dashboard and data visualisation           |
 | Looker Studio   | Interactive dashboard and reporting                    |
 | Miro            | Project planning and analysis workflow                 |
